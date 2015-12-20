@@ -1089,7 +1089,7 @@ do{
             exitKey = 1;
             stageA = 0;
             stageB = 0;
-            stageC = 0;;
+            stageC = 0;
         }
 
     }while(exitKey == 0);
